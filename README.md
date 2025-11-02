@@ -65,7 +65,7 @@ To export the entire map as PNG:
 
 ### Appearance
 #### For NationStates
-The NationStates style contains very little detail and simple, distinct colours.
+The NationStates style contains very little detail and simple, distinct colours.d
 
 1. Set `Options > Rendering` to `Best quality`.
 2. Use the [`NationStates` style preset](https://github.com/FWDekker/banaanvraag-map/blob/main/resources/styles/NationStates.json), or recreate it as follows:
