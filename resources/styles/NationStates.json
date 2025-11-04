@@ -165,7 +165,7 @@
     "opacity": 0.6,
     "stroke": "#595959",
     "stroke-width": 0.4,
-    "filter": null,
+    "filter": "none",
     "auto-filter": 0
   },
   "#lake_island": {
@@ -225,7 +225,7 @@
   "#statesHalo": {
     "opacity": 0.5,
     "data-width": 1,
-    "stroke-width": 0.78,
+    "stroke-width": 1,
     "filter": null
   },
   "#provs": {
@@ -389,8 +389,8 @@
     "letter-spacing": 0,
     "data-size": 18,
     "font-size": 18,
-    "font-family": "Almendra SC",
-    "filter": "url(#dropShadow)"
+    "font-family": "Arial",
+    "filter": null
   },
   "#labels > #addedLabels": {
     "opacity": 1,
